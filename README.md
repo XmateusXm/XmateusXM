@@ -24,9 +24,6 @@ API desenvolvida para consumo e tratamento de dados reais (IBGE / B3)
 🔹 **Dashboard de Dados**  
 Visualização de dados estatísticos com backend e frontend integrados  
 
-🔹 **MG Joias**  
-Site de e-commerce desenvolvido com HTML, CSS e JavaScript  
-
 *(Em constante evolução 🚧)*
 
 ---
