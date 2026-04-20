@@ -4,9 +4,6 @@
 💻 Focado em **Java**, **APIs REST** e **análise de dados**  
 🚀 Buscando evoluir como desenvolvedor backend
 
-## 🐍 Contribuições
-
-![snake gif](https://github.com/XmateusXM/XmateusXM/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🛠️ Tecnologias que utilizo
