@@ -18,7 +18,7 @@
 - HTML, CSS, JavaScript
 - Git & GitHub
 - Consumo de APIs (IBGE, dados públicos)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XmateusXM&layout=compact&theme=tokyonight)
 ---
 
 ## 📌 Projetos em destaque
